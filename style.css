@@ -1,5 +1,8 @@
+@import url("style/heaer.css");
 :root {
     --cor-de-fundo: background #EBECEE
+
+    --branco: #FFFFFF;
 }
 
 body{
