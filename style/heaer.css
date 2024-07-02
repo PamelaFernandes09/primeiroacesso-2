@@ -43,6 +43,7 @@ padding: 1em;
 
 .lista-menu__titulo {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu__link{
@@ -51,4 +52,8 @@ padding: 1em;
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-transform: uppercase;
+}
+
+.container__botao:checked {
+    display: none;
 }
